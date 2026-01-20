@@ -6,7 +6,7 @@ IBOV Overlay – BRAPI
 
 conda install requests pyqt5 matplotlib
 
-Aplicação em Python para acompanhamento do IBOVESPA e das principais ações da B3 em tempo real, com overlay flutuante e gráficos intraday avançados.
+Aplicação em Python para acompanhamento do IBOVESPA e das principais ações da B3 em tempo real, com overlay flutuante e gráficos intraday.
 
 ---
 
