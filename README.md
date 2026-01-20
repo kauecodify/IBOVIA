@@ -4,18 +4,18 @@
 
 IBOV Overlay
 
+Aplicação em Python para acompanhamento do IBOVESPA e das principais ações da B3 em tempo real, com overlay flutuante e gráficos intraday.
+
 conda install requests pyqt5 matplotlib; (BRAPI)
 
 (trend-aligned) >> mantém a tendência refinando a operação,
 Compra de ativo em tendência de alta ou baixa
 
 Overlay:
-venda de call coberta
-aumento de posição em pullback
-ajuste de stop via opções
+venda de call coberta,
+aumento de posição em pullback,
+ajuste de stop via opções,
 Direção continua
-
-Aplicação em Python para acompanhamento do IBOVESPA e das principais ações da B3 em tempo real, com overlay flutuante e gráficos intraday.
 
 ---
 
