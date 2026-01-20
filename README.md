@@ -2,9 +2,9 @@
 
 # IBOVIA - developing...
 
-IBOV Overlay – BRAPI                                   
+IBOV Overlay                                  
 
-conda install requests pyqt5 matplotlib
+conda install requests pyqt5 matplotlib; (BRAPI)
 
 Aplicação em Python para acompanhamento do IBOVESPA e das principais ações da B3 em tempo real, com overlay flutuante e gráficos intraday.
 
@@ -22,7 +22,6 @@ VWAP dinâmica,
 Verde quando em alta,
 Vermelha quando em queda,
 Banda de volatilidade baseada em desvio padrão,
-Tema escuro (preto) para uso profissional,
 Compatível com Spyder / Anaconda.
 
 ---
