@@ -7,18 +7,18 @@ conda install requests pyqt5 matplotlib
 Aplicação em Python para acompanhamento do IBOVESPA e das principais ações da B3 em tempo real, com overlay flutuante e gráficos intraday avançados.
 
 Funcionalidades
-Overlay flutuante sempre no topo
-Opacidade de 40% para sobreposição em outras telas
-Atualização automática a cada 5 segundos
-Dados em tempo real via API pública BRAPI
-Botão dedicado para análise do IBOVESPA
-Gráficos intraday (5 minutos)
-VWAP dinâmica
-Verde quando em alta
-Vermelha quando em queda
-Banda de volatilidade baseada em desvio padrão
-Tema escuro (preto) para uso profissional
-Compatível com Spyder / Anaconda
+Overlay flutuante sempre no topo,
+Opacidade de 40% para sobreposição em outras telas,
+Atualização automática a cada 5 segundos,
+Dados em tempo real via API pública BRAPI,
+Botão dedicado para análise do IBOVESPA,
+Gráficos intraday (5 minutos),
+VWAP dinâmica,
+Verde quando em alta,
+Vermelha quando em queda,
+Banda de volatilidade baseada em desvio padrão,
+Tema escuro (preto) para uso profissional,
+Compatível com Spyder / Anaconda.
 
 Tecnologias utilizadas
 Python 3
