@@ -1,6 +1,8 @@
+<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/c149ede2-3a24-46a6-8dfa-fd5af12cf1fb" />
+
 # IBOVIA - developing...
 
-IBOV Overlay – BRAPI
+IBOV Overlay – BRAPI                                   
 
 conda install requests pyqt5 matplotlib
 
